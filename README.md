@@ -3,7 +3,7 @@
 A simple Chrome extension built with HTML, CSS, and JavaScript that allows users to save and manage website links (leads) directly from their browser.
 This project is part of the Scrimba JavaScript Course and demonstrates working with the DOM, localStorage, and Chrome APIs.
 
-Features
+## Features
 
 Save Input: Add custom links manually using the input field.
 
