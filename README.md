@@ -15,7 +15,7 @@ Persistent Storage: All saved links are stored in your browser’s localStorage,
 
 Dynamic Rendering: Links are displayed dynamically as clickable list items using template strings and DOM manipulation.
 
-Technologies Used
+## Technologies Used
 
 HTML5 – structure of the web page
 CSS3 – styling and layout
@@ -23,17 +23,9 @@ JavaScript (ES6) – functionality and logic
 Chrome Tabs API – to capture the current tab’s URL
 localStorage – to store leads persistently
 
-Project Structure
+## How It Works
 
-project-folder/
-├── index.html (Main HTML file)
-├── index.css (Stylesheet)
-├── index.js (JavaScript logic)
-└── README.txt (Project documentation)
-
-How It Works
-
-Type a URL in the input field and click "SAVE INPUT" to store it.
+**Type a URL in the input field and click "SAVE INPUT" to store it.
 
 Click "SAVE TAB" to automatically save your current tab’s URL.
 
