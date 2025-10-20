@@ -17,7 +17,7 @@ Dynamic Rendering: Links are displayed dynamically as clickable list items using
 
 ## Technologies Used
 
-**HTML5** – structure of the web page
+HTML5 – structure of the web page
 CSS3 – styling and layout
 JavaScript (ES6) – functionality and logic
 Chrome Tabs API – to capture the current tab’s URL
@@ -25,7 +25,7 @@ localStorage – to store leads persistently
 
 ## How It Works
 
-**Type a URL in the input field and click "SAVE INPUT" to store it.
+Type a URL in the input field and click "SAVE INPUT" to store it.
 
 Click "SAVE TAB" to automatically save your current tab’s URL.
 
